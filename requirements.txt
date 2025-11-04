@@ -1,0 +1,1 @@
+pip install numpy pandas scikit-learn matplotlib seaborn tensorflow tflite-runtime torch torchvision torchaudio onnx onnxruntime
